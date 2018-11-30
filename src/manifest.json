@@ -1,0 +1,19 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Rename",
+      "shortcut": "ctrl alt r",
+      "identifier": "renamer-script-identifier",
+      "script": "./script.js"
+    }
+  ],
+  "menu": {
+    "title": "Renamer",
+    "items": [
+      "renamer-script-identifier"
+    ]
+  }
+}
