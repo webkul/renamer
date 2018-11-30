@@ -1,5 +1,6 @@
 {
   "name": "Renamer",
+  "description": "Plugin to rename multiple selected layers on the go",
   "version": "1.0.0",
   "engines": {
     "sketch": ">=3.0"
