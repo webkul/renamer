@@ -21,5 +21,14 @@
   "devDependencies": {
     "@skpm/builder": "^0.5.11"
   },
-  "author": "Webkul - Nitish Khagwal <support@webkul.com>"
+  "author": "Webkul - Nitish Khagwal <support@webkul.com>",
+  "licence": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webkul/renamer.git"
+  },
+  "homepage": "https://github.com/webkul/renamer",
+  "bugs": {
+    "url": "https://github.com/webkul/renamer/issues"
+  }
 }
