@@ -1,6 +1,6 @@
 {
   "name": "Renamer",
-  "description": "Plugin to rename multiple selected layers on the go",
+  "description": "Plugin to rename multiple selected layers/artboards on the go",
   "compatibleVersion": 3,
   "bundleVersion": 1,
   "icon": "icon.png",
@@ -9,7 +9,9 @@
       "name": "Rename",
       "shortcut": "ctrl alt r",
       "identifier": "renamer-script-identifier",
-      "script": "./script.js"
+      "script": "./script.js",
+      "description" : "Rename all selected layers/artboards at once",
+      "icon" : "icon-64x64.png"
     }
   ],
   "menu": {

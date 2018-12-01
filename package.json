@@ -1,7 +1,7 @@
 {
   "name": "Renamer",
-  "description": "Plugin to rename multiple selected layers on the go",
-  "version": "1.0.0",
+  "description": "Plugin to rename multiple selected layers/artboards on the go",
+  "version": "1.0.2",
   "engines": {
     "sketch": ">=3.0"
   },
