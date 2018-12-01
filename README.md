@@ -6,7 +6,7 @@ A Sketch Plugin which lets you to select multiple layers and rename them on the 
 
 ---
 # Installation
-1. **[Download](https://github.com/webkul/renamer/releases/download/v1.0.2/renamer.sketchplugin.zip)** Plugin from the release section.
+1. **[Download](https://github.com/webkul/renamer/releases/download/v1.0.3/renamer.sketchplugin.zip)** Plugin from the release section.
 2. Extract the archive
 3. Install `renamer.sketchplugin` for Sketch App
 4. Access it from Sketch's Menu Bar. Go to `Plugins` :arrow_right: `Renamer` :arrow_right: `Rename`
