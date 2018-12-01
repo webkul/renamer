@@ -19,5 +19,6 @@
     "items": [
       "renamer-script-identifier"
     ]
-  }
+  },
+  "appcast": "https://raw.githubusercontent.com/webkul/renamer/master/appcast.xml"
 }
