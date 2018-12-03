@@ -2,7 +2,7 @@
 
 # Renamer
 
-A Sketch Plugin which lets you to select multiple layers and rename them on the go as a batch process.
+A Sketch Plugin which lets you to select multiple layers/groups/artboards and rename them on the go as a batch process with a single click.
 
 ---
 # Installation
