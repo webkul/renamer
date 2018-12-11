@@ -21,5 +21,9 @@
       <title>Version 1.0.4</title>
       <enclosure url="https://github.com/webkul/renamer/releases/download/v1.0.4/renamer.sketchplugin.zip" sparkle:version="1.0.4"/>
     </item>
+    <item>
+      <title>Version 1.0.5</title>
+      <enclosure url="https://github.com/webkul/renamer/releases/download/v1.0.5/renamer.sketchplugin.zip" sparkle:version="1.0.5"/>
+    </item>
   </channel>
 </rss>
