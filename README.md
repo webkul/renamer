@@ -6,7 +6,7 @@ A Sketch Plugin which lets you to select multiple layers/groups/artboards and re
 
 ---
 # Installation
-1. **[Download](https://github.com/webkul/renamer/releases/download/v1.0.4/renamer.sketchplugin.zip)** Plugin from the release section.
+1. **[Download](https://github.com/webkul/renamer/releases/download/v1.0.5/renamer.sketchplugin.zip)** Plugin from the release section.
 2. Extract the archive
 3. Install `renamer.sketchplugin` for Sketch App
 4. Access it from Sketch's Menu Bar. Go to `Plugins` :arrow_right: `Renamer` :arrow_right: `Rename`
